@@ -9,3 +9,5 @@
 
 Run the scripts in order, starting at `01-*.sh`
 Where the instructions say "open http://...", the actual command `open http://...` can be used on OS X and will use your default browser.
+
+After you've finished these exercises, you can carry on with [the rest of the examples in the Istio docs](https://istio.io/docs/examples/bookinfo/#what-s-next).
